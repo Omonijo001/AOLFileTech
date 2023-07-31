@@ -1,0 +1,4 @@
+1	ade	ade@gmail.com	adewale	1234	234567	abk	0	Customer	False
+2	wande	wande@gmail.com	wande	1234	0907575	abk	0	SuperAdmin	False
+3	rid	rid	rid	1234	567	abk	0	Rider	False
+4	asd	asd	asd	1234	4567	abk	0	Manager	False

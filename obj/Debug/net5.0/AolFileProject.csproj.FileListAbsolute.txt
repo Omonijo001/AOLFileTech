@@ -1,0 +1,32 @@
+C:\Users\USER\Desktop\AolFileProject\bin\Debug\net5.0\AolFileProject.exe
+C:\Users\USER\Desktop\AolFileProject\bin\Debug\net5.0\AolFileProject.deps.json
+C:\Users\USER\Desktop\AolFileProject\bin\Debug\net5.0\AolFileProject.runtimeconfig.json
+C:\Users\USER\Desktop\AolFileProject\bin\Debug\net5.0\AolFileProject.runtimeconfig.dev.json
+C:\Users\USER\Desktop\AolFileProject\bin\Debug\net5.0\AolFileProject.dll
+C:\Users\USER\Desktop\AolFileProject\bin\Debug\net5.0\AolFileProject.pdb
+C:\Users\USER\Desktop\AolFileProject\obj\Debug\net5.0\AolFileProject.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\AolFileProject\obj\Debug\net5.0\AolFileProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\AolFileProject\obj\Debug\net5.0\AolFileProject.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AolFileProject\obj\Debug\net5.0\AolFileProject.AssemblyInfo.cs
+C:\Users\USER\Desktop\AolFileProject\obj\Debug\net5.0\AolFileProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AolFileProject\obj\Debug\net5.0\AolFileProject.dll
+C:\Users\USER\Desktop\AolFileProject\obj\Debug\net5.0\refint\AolFileProject.dll
+C:\Users\USER\Desktop\AolFileProject\obj\Debug\net5.0\AolFileProject.pdb
+C:\Users\USER\Desktop\AolFileProject\obj\Debug\net5.0\AolFileProject.genruntimeconfig.cache
+C:\Users\USER\Desktop\AolFileProject\obj\Debug\net5.0\ref\AolFileProject.dll
+C:\Users\USER\Desktop\AOL PROJECT\AolFileProject\bin\Debug\net5.0\AolFileProject.exe
+C:\Users\USER\Desktop\AOL PROJECT\AolFileProject\bin\Debug\net5.0\AolFileProject.deps.json
+C:\Users\USER\Desktop\AOL PROJECT\AolFileProject\bin\Debug\net5.0\AolFileProject.runtimeconfig.json
+C:\Users\USER\Desktop\AOL PROJECT\AolFileProject\bin\Debug\net5.0\AolFileProject.runtimeconfig.dev.json
+C:\Users\USER\Desktop\AOL PROJECT\AolFileProject\bin\Debug\net5.0\AolFileProject.dll
+C:\Users\USER\Desktop\AOL PROJECT\AolFileProject\bin\Debug\net5.0\AolFileProject.pdb
+C:\Users\USER\Desktop\AOL PROJECT\AolFileProject\obj\Debug\net5.0\AolFileProject.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\AOL PROJECT\AolFileProject\obj\Debug\net5.0\AolFileProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\AOL PROJECT\AolFileProject\obj\Debug\net5.0\AolFileProject.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AOL PROJECT\AolFileProject\obj\Debug\net5.0\AolFileProject.AssemblyInfo.cs
+C:\Users\USER\Desktop\AOL PROJECT\AolFileProject\obj\Debug\net5.0\AolFileProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AOL PROJECT\AolFileProject\obj\Debug\net5.0\AolFileProject.dll
+C:\Users\USER\Desktop\AOL PROJECT\AolFileProject\obj\Debug\net5.0\refint\AolFileProject.dll
+C:\Users\USER\Desktop\AOL PROJECT\AolFileProject\obj\Debug\net5.0\AolFileProject.pdb
+C:\Users\USER\Desktop\AOL PROJECT\AolFileProject\obj\Debug\net5.0\AolFileProject.genruntimeconfig.cache
+C:\Users\USER\Desktop\AOL PROJECT\AolFileProject\obj\Debug\net5.0\ref\AolFileProject.dll
